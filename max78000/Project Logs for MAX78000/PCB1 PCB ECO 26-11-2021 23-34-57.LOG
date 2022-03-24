@@ -1,0 +1,266 @@
+Added Component: Designator=IC16(MAX13202EALT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdfserv.maximintegrated.com/en/ds/MAX13202E-MAX13208E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX13202EALT+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MAX1(max78000)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdfserv.maximintegrated.com/en/ds/MAX78000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX78000EXG+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX78000EXG+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX78000EXG%2b?qs=yqaQSyyJnNigS5t%2FKz0nhQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC16-6
+Added Pin To Net: NetName=GND Pin=MAX1-A1
+Added Pin To Net: NetName=GND Pin=MAX1-A6
+Added Pin To Net: NetName=GND Pin=MAX1-A9
+Added Pin To Net: NetName=GND Pin=MAX1-B6
+Added Pin To Net: NetName=GND Pin=MAX1-C4
+Added Pin To Net: NetName=GND Pin=MAX1-C5
+Added Pin To Net: NetName=GND Pin=MAX1-E9
+Added Pin To Net: NetName=GND Pin=MAX1-J6
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1_1 Pin=MAX1-D7
+Added Net: Name=Net1_1
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=Net2_1 Pin=MAX1-E8
+Added Net: Name=Net2_1
+Added Net: Name=Net2_2
+Added Pin To Net: NetName=Net3_1 Pin=MAX1-E7
+Added Net: Name=Net3_1
+Added Net: Name=Net3_2
+Added Pin To Net: NetName=Net4_1 Pin=MAX1-F9
+Added Net: Name=Net4_1
+Added Net: Name=Net4_2
+Added Net: Name=Net5_1
+Added Pin To Net: NetName=Net5_2 Pin=IC16-1
+Added Net: Name=Net5_2
+Added Net: Name=Net6_1
+Added Net: Name=Net6_2
+Added Net: Name=Net7_1
+Added Net: Name=Net9_2
+Added Net: Name=Net10_2
+Added Net: Name=Net11_2
+Added Net: Name=Net12_2
+Added Net: Name=Net13_2
+Added Pin To Net: NetName=Net14_1 Pin=MAX1-B9
+Added Net: Name=Net14_1
+Added Pin To Net: NetName=Net14_2 Pin=MAX1-A8
+Added Net: Name=Net14_2
+Added Pin To Net: NetName=Net15_2 Pin=MAX1-C8
+Added Net: Name=Net15_2
+Added Net: Name=NetC5_1
+Added Net: Name=NetC7_2
+Added Net: Name=NetC8_2
+Added Net: Name=NetC9_2
+Added Net: Name=NetC10_1
+Added Net: Name=NetC17_1
+Added Net: Name=NetC18_2
+Added Net: Name=NetC19_2
+Added Net: Name=NetC26_1
+Added Net: Name=NetC28_2
+Added Net: Name=NetC29_2
+Added Net: Name=NetC37_1
+Added Net: Name=NetC38_1
+Added Net: Name=NetC39_1
+Added Net: Name=NetC40_1
+Added Net: Name=NetC41_2
+Added Net: Name=NetC43_2
+Added Net: Name=NetC45_1
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC47_2 Pin=MAX1-D8
+Added Net: Name=NetC47_2
+Added Pin To Net: NetName=NetC51_2 Pin=MAX1-D9
+Added Pin To Net: NetName=NetC51_2 Pin=MAX1-E1
+Added Net: Name=NetC51_2
+Added Pin To Net: NetName=NetC55_2 Pin=MAX1-A3
+Added Pin To Net: NetName=NetC55_2 Pin=MAX1-C1
+Added Pin To Net: NetName=NetC55_2 Pin=MAX1-J4
+Added Net: Name=NetC55_2
+Added Pin To Net: NetName=NetC58_2 Pin=MAX1-B8
+Added Net: Name=NetC58_2
+Added Pin To Net: NetName=NetC59_2 Pin=MAX1-A7
+Added Net: Name=NetC59_2
+Added Pin To Net: NetName=NetC60_2 Pin=MAX1-C7
+Added Net: Name=NetC60_2
+Added Pin To Net: NetName=NetC62_2 Pin=MAX1-A4
+Added Pin To Net: NetName=NetC62_2 Pin=MAX1-D1
+Added Pin To Net: NetName=NetC62_2 Pin=MAX1-J5
+Added Net: Name=NetC62_2
+Added Pin To Net: NetName=NetC66_2 Pin=MAX1-B7
+Added Net: Name=NetC66_2
+Added Pin To Net: NetName=NetC69_2 Pin=MAX1-C6
+Added Pin To Net: NetName=NetC69_2 Pin=MAX1-C9
+Added Net: Name=NetC69_2
+Added Pin To Net: NetName=NetC73_2 Pin=MAX1-B5
+Added Net: Name=NetC73_2
+Added Pin To Net: NetName=NetC74_2 Pin=MAX1-A5
+Added Net: Name=NetC74_2
+Added Net: Name=NetIC1_1
+Added Net: Name=NetIC1_2
+Added Net: Name=NetIC1_4
+Added Net: Name=NetIC1_6
+Added Net: Name=NetIC1_8
+Added Net: Name=NetIC1_9
+Added Net: Name=NetIC2_1
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetIC2_4 Pin=P1-3
+Added Net: Name=NetIC2_4
+Added Pin To Net: NetName=NetIC2_6 Pin=P1-1
+Added Net: Name=NetIC2_6
+Added Net: Name=NetIC4_1
+Added Pin To Net: NetName=NetIC4_6 Pin=MAX1-B3
+Added Net: Name=NetIC4_6
+Added Net: Name=NetIC5_2
+Added Pin To Net: NetName=NetIC6_4 Pin=MAX1-B4
+Added Net: Name=NetIC6_4
+Added Net: Name=NetIC7_2
+Added Net: Name=NetIC8_2
+Added Net: Name=NetIC9_2
+Added Net: Name=NetIC10_2
+Added Net: Name=NetIC11_1
+Added Net: Name=NetIC11_2
+Added Pin To Net: NetName=NetIC11_3 Pin=MAX1-G3
+Added Net: Name=NetIC11_3
+Added Net: Name=NetIC11_4
+Added Pin To Net: NetName=NetIC11_7 Pin=MAX1-J3
+Added Net: Name=NetIC11_7
+Added Net: Name=NetIC11_8
+Added Net: Name=NetIC11_9
+Added Net: Name=NetIC11_10
+Added Pin To Net: NetName=NetIC11_11 Pin=MAX1-D4
+Added Net: Name=NetIC11_11
+Added Net: Name=NetIC11_12
+Added Net: Name=NetIC11_14
+Added Net: Name=NetIC11_15
+Added Pin To Net: NetName=NetIC11_16 Pin=MAX1-H3
+Added Net: Name=NetIC11_16
+Added Net: Name=NetIC11_17
+Added Net: Name=NetIC11_18
+Added Net: Name=NetIC11_19
+Added Pin To Net: NetName=NetIC11_20 Pin=MAX1-E4
+Added Net: Name=NetIC11_20
+Added Pin To Net: NetName=NetIC11_23 Pin=MAX1-F3
+Added Net: Name=NetIC11_23
+Added Net: Name=NetIC11_24
+Added Net: Name=NetIC12_22
+Added Net: Name=NetIC12_23
+Added Net: Name=NetIC13_2
+Added Net: Name=NetIC14_2
+Added Pin To Net: NetName=NetIC16_3 Pin=IC16-3
+Added Pin To Net: NetName=NetIC16_3 Pin=IC16-4
+Added Net: Name=NetIC16_3
+Added Pin To Net: NetName=NetIC17_1 Pin=MAX1-J7
+Added Net: Name=NetIC17_1
+Added Pin To Net: NetName=NetIC17_2 Pin=MAX1-G7
+Added Net: Name=NetIC17_2
+Added Pin To Net: NetName=NetIC17_3 Pin=MAX1-G6
+Added Net: Name=NetIC17_3
+Added Pin To Net: NetName=NetIC17_5 Pin=MAX1-H7
+Added Net: Name=NetIC17_5
+Added Pin To Net: NetName=NetIC17_6 Pin=MAX1-H6
+Added Net: Name=NetIC17_6
+Added Pin To Net: NetName=NetIC17_7 Pin=MAX1-F6
+Added Net: Name=NetIC17_7
+Added Pin To Net: NetName=NetJ6_2 Pin=MAX1-F8
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=MAX1-C3
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ7_2 Pin=MAX1-H2
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ7_4 Pin=MAX1-J1
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ8_2 Pin=MAX1-F1
+Added Net: Name=NetJ8_2
+Added Pin To Net: NetName=NetJ8_4 Pin=MAX1-G1
+Added Net: Name=NetJ8_4
+Added Pin To Net: NetName=NetJ8_6 Pin=MAX1-E2
+Added Net: Name=NetJ8_6
+Added Pin To Net: NetName=NetJ8_8 Pin=MAX1-F2
+Added Net: Name=NetJ8_8
+Added Pin To Net: NetName=NetJ9_6 Pin=MAX1-G2
+Added Net: Name=NetJ9_6
+Added Pin To Net: NetName=NetJ9_8 Pin=MAX1-H1
+Added Net: Name=NetJ9_8
+Added Pin To Net: NetName=NetJ9_9 Pin=MAX1-E5
+Added Net: Name=NetJ9_9
+Added Pin To Net: NetName=NetJ9_10 Pin=MAX1-B2
+Added Net: Name=NetJ9_10
+Added Pin To Net: NetName=NetJ9_11 Pin=MAX1-A2
+Added Net: Name=NetJ9_11
+Added Pin To Net: NetName=NetJ9_12 Pin=MAX1-G4
+Added Net: Name=NetJ9_12
+Added Pin To Net: NetName=NetJ9_19 Pin=MAX1-E3
+Added Net: Name=NetJ9_19
+Added Pin To Net: NetName=NetJ9_20 Pin=MAX1-J2
+Added Net: Name=NetJ9_20
+Added Pin To Net: NetName=NetJ10_3 Pin=MAX1-D2
+Added Net: Name=NetJ10_3
+Added Pin To Net: NetName=NetJ10_4 Pin=MAX1-C2
+Added Net: Name=NetJ10_4
+Added Net: Name=NetJ13_1
+Added Pin To Net: NetName=NetJ13_2 Pin=MAX1-F5
+Added Net: Name=NetJ13_2
+Added Net: Name=NetJ14_1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetMAX1_B1 Pin=MAX1-B1
+Added Pin To Net: NetName=NetMAX1_B1 Pin=P1-5
+Added Net: Name=NetMAX1_B1
+Added Pin To Net: NetName=NetMAX1_D3 Pin=MAX1-D3
+Added Pin To Net: NetName=NetMAX1_D3 Pin=P1-7
+Added Net: Name=NetMAX1_D3
+Added Pin To Net: NetName=NetMAX1_D5 Pin=MAX1-D5
+Added Pin To Net: NetName=NetMAX1_D5 Pin=P1-9
+Added Net: Name=NetMAX1_D5
+Added Pin To Net: NetName=NetMAX1_D6 Pin=MAX1-D6
+Added Pin To Net: NetName=NetMAX1_D6 Pin=P1-11
+Added Net: Name=NetMAX1_D6
+Added Pin To Net: NetName=NetMAX1_E6 Pin=MAX1-E6
+Added Pin To Net: NetName=NetMAX1_E6 Pin=P1-6
+Added Net: Name=NetMAX1_E6
+Added Pin To Net: NetName=NetMAX1_F4 Pin=MAX1-F4
+Added Pin To Net: NetName=NetMAX1_F4 Pin=P1-12
+Added Net: Name=NetMAX1_F4
+Added Pin To Net: NetName=NetMAX1_F7 Pin=MAX1-F7
+Added Pin To Net: NetName=NetMAX1_F7 Pin=P1-10
+Added Net: Name=NetMAX1_F7
+Added Pin To Net: NetName=NetMAX1_G5 Pin=MAX1-G5
+Added Pin To Net: NetName=NetMAX1_G5 Pin=P1-8
+Added Net: Name=NetMAX1_G5
+Added Pin To Net: NetName=NetMAX1_G8 Pin=MAX1-G8
+Added Net: Name=NetMAX1_G8
+Added Pin To Net: NetName=NetMAX1_G9 Pin=MAX1-G9
+Added Net: Name=NetMAX1_G9
+Added Pin To Net: NetName=NetMAX1_H4 Pin=MAX1-H4
+Added Pin To Net: NetName=NetMAX1_H4 Pin=P1-13
+Added Net: Name=NetMAX1_H4
+Added Pin To Net: NetName=NetMAX1_H5 Pin=MAX1-H5
+Added Pin To Net: NetName=NetMAX1_H5 Pin=P1-15
+Added Net: Name=NetMAX1_H5
+Added Pin To Net: NetName=NetMAX1_H8 Pin=MAX1-H8
+Added Pin To Net: NetName=NetMAX1_H8 Pin=P1-17
+Added Net: Name=NetMAX1_H8
+Added Pin To Net: NetName=NetMAX1_H9 Pin=MAX1-H9
+Added Pin To Net: NetName=NetMAX1_H9 Pin=P1-19
+Added Net: Name=NetMAX1_H9
+Added Pin To Net: NetName=NetMAX1_J8 Pin=MAX1-J8
+Added Pin To Net: NetName=NetMAX1_J8 Pin=P1-2
+Added Net: Name=NetMAX1_J8
+Added Pin To Net: NetName=NetMAX1_J9 Pin=MAX1-J9
+Added Pin To Net: NetName=NetMAX1_J9 Pin=P1-4
+Added Net: Name=NetMAX1_J9
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

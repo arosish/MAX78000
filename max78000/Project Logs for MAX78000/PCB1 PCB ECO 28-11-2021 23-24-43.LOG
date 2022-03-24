@@ -1,0 +1,28 @@
+Added Component: Designator=IC18(SPH0645LM4H18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.knowles.com/docs/default-source/default-document-library/sph0645lm4h-1-datasheet.pdf?Status=Master&sfvrsn=751076b1_2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Knowles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPH0645LM4H-1-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "721-SPH0645LM4H-1-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Knowles/SPH0645LM4H-1-8?qs=TuK3vfAjtkXP9L009Fh60A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC18-3
+Added Pin To Net: NetName=Net5_2 Pin=IC18-5
+Added Pin To Net: NetName=NetIC18_1 Pin=IC18-1
+Added Pin To Net: NetName=NetIC18_1 Pin=J8-6
+Added Pin To Net: NetName=NetIC18_1 Pin=MAX1-E2
+Added Net: Name=NetIC18_1
+Added Pin To Net: NetName=NetIC18_2 Pin=IC18-2
+Added Pin To Net: NetName=NetIC18_2 Pin=MAX1-C2
+Added Net: Name=NetIC18_2
+Added Pin To Net: NetName=NetIC18_4 Pin=IC18-4
+Added Pin To Net: NetName=NetIC18_4 Pin=J8-8
+Added Pin To Net: NetName=NetIC18_4 Pin=MAX1-F2
+Added Net: Name=NetIC18_4
+Added Pin To Net: NetName=NetIC18_6 Pin=IC18-6
+Added Pin To Net: NetName=NetIC18_6 Pin=MAX1-D2
+Added Net: Name=NetIC18_6
+Added Member To Class: ClassName=Sheet1 Member=Component IC18 SPH0645LM4H-1-8
+Added Room: Name=Sheet1
